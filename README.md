@@ -4,13 +4,7 @@
 ### 🛠️ My stack: 
 [![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patryk-jozefczyk/)
 
-[![My Skills]()]
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,selenium,postman,git,postgres,html,css,figma,ps,xd" />
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,postman,git,postgres,html,css,figma,ps,xd)](https://skillicons.dev)
 <details>
   <summary>Github Stats ⚡</summary>
   
