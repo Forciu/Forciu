@@ -2,7 +2,7 @@
 
 ## :grin: My name is Patryk, I am a software tester.
 
-###<p> I am developing my knowledge in the area of Manual/Automation Tests. </p>
+<p> I am developing my knowledge in the area of Manual/Automation Tests. </p>
 I have a wide range of technical experience in the field of manual testing of web design, mobile applications and computer games.
 
 ## 🛠️ My stack: 
