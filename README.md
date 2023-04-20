@@ -3,7 +3,7 @@
 ## :grin: My name is Patryk, I am a software tester.
 
 <p> I am developing my knowledge in the area of Manual/Automation Tests. </p>
-I have a wide range of technical experience in the field of manual testing of web design, mobile applications and computer games.
+
 
 ## 🛠️ My stack: 
 [![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patryk-jozefczyk/)
