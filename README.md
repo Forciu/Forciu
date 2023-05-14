@@ -16,16 +16,15 @@ In the realm of manual testing, I employ meticulous attention to detail and thor
   Collaboration and communication are key aspects of my work. I actively engage with cross-functional teams, developers, and stakeholders to understand requirements and provide valuable insights. I am comfortable working in agile environments, adapting quickly to changing project needs and delivering results within tight deadlines.
 </p>
 
+## Contact
+If you wish to contact me, this is my email: [patryk.jozef3@gmail.com](mailto:patryk.jozef3@gmail.com)
 
-## 🛠️ My stack: 
+# 🛠️ My stack: 
 [![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patryk-jozefczyk/)
 
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,postman,git,postgres,html,css,figma,ps,xd)](https://skillicons.dev)
 
-## Github Stats
+# Github Stats
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Forciu&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forciu&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
-## Contact
-If you wish to contact me, this is my email: [patryk.jozef3@gmail.com](mailto:patryk.jozef3@gmail.com)
