@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-## :grin: Software Manual/Automated Tester in Python
+## Software Manual/Automated Tester in Python
 
 <p>I am a software tester with expertise in both manual and automated testing using Python. With a passion for ensuring software quality, I strive to deliver reliable and bug-free solutions.
   
