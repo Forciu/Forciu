@@ -32,5 +32,5 @@ If you wish to contact me, this is my email: [patryk.jozef3@gmail.com](mailto:pa
   
   
   [![Forciu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forciu&theme=dark&count_private=true&hide=prs,issues)](https://github.com/Forciu/github-readme-stats&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forciu&theme=dark&count_private=true&layout=compact)](https://github.com/Forciu/github-readme-stats&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forciu&theme=dark&count_private=true&layout=compact)]
 
