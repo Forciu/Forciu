@@ -27,10 +27,3 @@ If you wish to contact me, this is my email: [patryk.jozef3@gmail.com](mailto:pa
 [![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patryk-jozefczyk/)
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,cs,selenium,postman,git,postgres,mysql,html,css,vscode,figma,ps,xd)](https://skillicons.dev)
-
-# Github Stats
-  
-  
-  [![Forciu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forciu&theme=dark&count_private=true&hide=prs,issues)](https://github.com/Forciu/github-readme-stats&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forciu&theme=dark&count_private=true&layout=compact&langs_count=6)]
-
