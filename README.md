@@ -1,6 +1,6 @@
 # Welcome here, I'm Patryk! 👋
 
-## Software Manual/Automated Tester in Python
+## Software Manual/Automated Tester
 
 # 💪 About me
 
