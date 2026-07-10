@@ -1,29 +1,28 @@
-# Welcome here, I'm Patryk! 👋
+# Hi, I'm Patryk 👋
 
-## Software Manual/Automated Tester
+## QA Automation Engineer — Playwright (TypeScript/JavaScript) · Selenium (C#) · Python
 
-# 💪 About me
+ISTQB® CTFL certified QA Engineer with 3 years of experience testing enterprise web,
+desktop, and mobile applications. At work I develop automated UI and E2E tests in
+Playwright (TypeScript/JavaScript) and Selenium WebDriver (C#, NUnit), test APIs
+(Postman, Swagger, REST), and work in a Scrum team.
 
-<p>I am a software tester with experience in manual testing. With a passion for ensuring software quality, I strive to deliver reliable and bug-free solutions.
-  
-  
-- In the realm of manual testing, I employ meticulous attention to detail and thorough test case design to identify and report defects. 
-I excel at creating comprehensive test plans and executing test cases to validate software functionality, usability, and performance. My strong analytical skills enable me to troubleshoot issues efficiently, ensuring that software meets the highest quality standards. 
-  
-  
-- I have also knowledge in automated testing using Python. Leveraging popular testing frameworks and libraries such as PyTest and Selenium, I develop robust and maintainable test scripts. By automating repetitive and time-consuming tasks, I accelerate the testing process while maintaining accuracy and reliability.
+My UX design background (MSc, Graphic Design / UX) helps me look at software the way
+end users do — so I catch usability problems, not just functional bugs.
+
+### 🛠️ Tech stack
+
+- **Test automation:** Playwright (TypeScript/JavaScript), Selenium WebDriver (C#, NUnit), PyTest
+- **Languages:** TypeScript, JavaScript, C#, Python, SQL
+- **API testing:** Postman, Swagger, REST
+- **Tools:** Git, Docker, Jenkins, GitHub Actions, JMeter, Figma, DevTools
+- **Databases:** SQL, MS SQL Server
 
   
-- The UX / UI knowledge gained from my studies and work in this position helps me during software development . This allows me to better position myself on the side of users, using good design practices. 
-  
-  
-Collaboration and communication are key aspects of my work. I actively engage with cross-functional teams, developers, and stakeholders to understand requirements and provide valuable insights. I am comfortable working in agile environments, adapting quickly to changing project needs and delivering results within tight deadlines.
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cs,selenium,git,html,css,figma,ps,xd)](https://skillicons.dev)
 
-## Contact
-If you wish to contact me, this is my email: [patryk.jozef3@gmail.com](mailto:patryk.jozef3@gmail.com)
 
-# 🛠️ My stack: 
+### 📫 Contact
+patryk.jozef3@gmail.com · [LinkedIn](https://www.linkedin.com/in/patryk-jozefczyk/)
+
 [![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patryk-jozefczyk/)
-
-[![My Skills](https://skillicons.dev/icons?i=js,python,cs,selenium,postman,git,postgres,mysql,html,css,vscode,figma,ps,xd)](https://skillicons.dev)
