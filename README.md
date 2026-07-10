@@ -2,10 +2,8 @@
 
 ## QA Automation Engineer — Playwright (TypeScript/JavaScript) · Selenium (C#) · Python
 
-QA Engineer with 3 years of experience testing enterprise web,
-desktop, and mobile applications. At work I develop automated UI and E2E tests in
-Playwright (TypeScript/JavaScript) and Selenium WebDriver (C#, NUnit), test APIs
-(Postman, Swagger, REST).
+QA Engineer with experience testing enterprise web, desktop, mobile applications, and games. 
+At work I develop automated UI and E2E tests in Playwright (TypeScript/JavaScript) and Selenium WebDriver (C#, NUnit), test APIs (Postman, Swagger, REST).
 
 ### 🛠️ Tech stack
 
