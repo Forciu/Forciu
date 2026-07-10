@@ -2,22 +2,15 @@
 
 ## QA Automation Engineer — Playwright (TypeScript/JavaScript) · Selenium (C#) · Python
 
-ISTQB® CTFL certified QA Engineer with 3 years of experience testing enterprise web,
+QA Engineer with 3 years of experience testing enterprise web,
 desktop, and mobile applications. At work I develop automated UI and E2E tests in
 Playwright (TypeScript/JavaScript) and Selenium WebDriver (C#, NUnit), test APIs
-(Postman, Swagger, REST), and work in a Scrum team.
-
-My UX design background (MSc, Graphic Design / UX) helps me look at software the way
-end users do — so I catch usability problems, not just functional bugs.
+(Postman, Swagger, REST).
 
 ### 🛠️ Tech stack
 
-- **Test automation:** Playwright (TypeScript/JavaScript), Selenium WebDriver (C#, NUnit), PyTest
-- **Languages:** TypeScript, JavaScript, C#, Python, SQL
+- **Test automation:** Playwright (TypeScript/JavaScript), Selenium WebDriver (C#, NUnit), Python
 - **API testing:** Postman, Swagger, REST
-- **Tools:** Git, Docker, Jenkins, GitHub Actions, JMeter, Figma, DevTools
-- **Databases:** SQL, MS SQL Server
-
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,cs,selenium,git,html,css,figma,ps,xd)](https://skillicons.dev)
 
